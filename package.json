@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "nltk": "0.0.1",
+    "npm": "^6.12.0",
+    "redis": "^2.8.0",
+    "response-time": "^2.3.2",
+    "sentiment": "^5.0.2",
+    "twitter": "^1.7.1"
+  }
+}
